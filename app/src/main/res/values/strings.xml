@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Note app</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password\n</string>
+    <string name="Login">Log In\n</string>
+    <string name="register">If you are not registered....Click Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add note</string>
+</resources>

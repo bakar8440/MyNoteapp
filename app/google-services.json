@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245382614628",
+    "project_id": "edge-1e693",
+    "storage_bucket": "edge-1e693.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245382614628:android:fd35e8d49b90ce66709971",
+        "android_client_info": {
+          "package_name": "com.example.mynoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqc_5hPeQGleKj8qp6QYnRJXTSf1Yk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
